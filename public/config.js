@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/NigsterDEX",
   "VITE_SEO_SITE_NAME": "Nigster",
   "VITE_SEO_SITE_DESCRIPTION": "The Next-Gen Perp DEX For All Niggas",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/nigster-6206/",
+  "VITE_SEO_SITE_URL": "https://perps.nigsterdex.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@nigsterDEX",

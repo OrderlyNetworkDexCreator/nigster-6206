@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_URL": "https://perps.nigsterdex.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
-  "VITE_SEO_TWITTER_HANDLE": "@nigsterDEX",
+  "VITE_SEO_TWITTER_HANDLE": "@NigsterExchange",
   "VITE_SEO_THEME_COLOR": "#6babff",
   "VITE_SEO_KEYWORDS": "dex, crypto, trading, aster, perps",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
